@@ -1,0 +1,797 @@
+{
+  "cities": [
+    {
+      "name": "Sarajevo", 
+      "categories": [
+        {
+          "name": "Coffee Shops",
+          "locations": [
+            {
+              "name": "Čajdzinica Dzirlo-Tea House",
+              "coordinates": {
+                "latitude": 43.86021910593015, 
+                "longitude": 18.432159997395576
+              },
+              "address": "Kovači 16, Sarajevo 71000 Bosnia and Herzegovina",
+              "description": "Teahouse Džirlo in Sarajevo, more precisely in Kovači Street, is the place with the most beautiful view of the pearl of Sarajevo tourism, Baščaršija. It is an unmissable location for all lovers of delicious teas (53 types of tea), Bosnian coffee and salep. If you want to show someone this city, Girlo is the stop they must stop at. It is also special because of its eclectic decoration with traditional Bosnian details, lots of colors and of course Mr. Džirlo."
+            },
+            {
+              "name": "Ministry of Ćejf", 
+              "coordinates": {
+                "latitude": 43.85555337701399, 
+                "longitude": 18.409500070761947
+              },
+              "address": "Hiseta 2, Sarajevo 71000",
+              "description": "Ministry of Ćejf is a popular restaurant and cafe located not far from the SCC in Hiseta Street 2, Sarajevo. This cafe attracts many visitors with its ambience, food and drink offer, and service. The atmosphere of the cafe is very pleasant and relaxing. The interior is modernly decorated, with many details and special corners, which creates a pleasant atmosphere for staying and socializing. The staff is very kind and attentive to the guests, and the fast and efficient service is something that the Ministry of Ćejf is known for. The offer of this cafe includes various specialty coffees, teas and juices, and for those who are hungry there is delicious food. There is also a great deal for vegetarians. The prices are affordable and adapted to everyone's budget, and the quality of food and drinks is very high. Restaurant Ministry of Ćejf accepts payment in cash and by card. The cafe does not have its own parking lot, but it is possible to park in nearby public parking lots. Also, free Wi-Fi is available to guests. Ministry of Coffee is not a pet-friendly cafe. If you want to enjoy the great ambience of this restaurant in the late hours, it would be a good idea to reserve your place either inside the restaurant itself or in the wonderful garden located within the restaurant. The advantages of this cafe are definitely the friendly staff, the pleasant atmosphere, the wide range of drinks and food at affordable prices. All in all, Ministry of Ćejf is an excellent choice for those who want to enjoy delicious food and drink in a pleasant environment, with friendly staff and reasonable prices. ."
+            },
+            {
+              "name": "Caffe Kamarija-Point of view", 
+              "coordinates": {
+                "latitude": 43.86096976442129, 
+                "longitude":  18.43859887730636
+              },
+              "address": "Pod bedemom, Sarajevo 71000",
+              "description": "Caffe Kamarija-Point of view is a unique cafe located in the old part of Sarajevo where you can enjoy a panoramic view of Sarajevo. It consists of two floors, an open and a closed part, and the total capacity is up to 120 people. Advance booking is not necessary, but is recommended for larger groups. As for food, Caffe Kamarija-Point of view offers a limited selection of snacks, such as homemade cakes or the famous cereal with whipped cream that this place offers to its guests. However, the main attraction of this cafe is the coffee, which is prepared with freshly ground beans. They also offer other popular beverages such as tea, carbonated and non-carbonated drinks. The prices are affordable, which makes this cafe an excellent choice for students and people looking for a convenient place to meet or socialize. The service is very good and the staff is friendly and helpful. Caffe Kamarija-Point of view has a modern and pleasant atmosphere that attracts young and trendy visitors. The sounds of relaxing music create a pleasant background noise that is not too loud and allows for conversation. In addition to you, I am sure that your pets will also enjoy themselves, who are welcome in this wonderful cafe. Wi-fi is available. Cafe Kamarija is located near Žuta tabija and you only need 10 to 15 minutes of walking from Sebilje to get to this cafe, if you decide to get to the cafe by car, you will have access to the parking lot located near the cafe itself. If you are wondering how to get to Kamarija cafe, feel free to use the map on our website, which will take you directly to Kamarija cafe. All in all, Caffe Kamarija-Point of view is a good choice for those who are looking for a place to have a pleasant conversation over coffee or hang out with friends over light snacks. The cafe offers quality service and a modern atmosphere at affordable prices, and the friendly staff will always welcome you with a smile."
+            },
+            {
+              "name": "Fabrika Coffee Sarajevo", 
+              "coordinates": {
+                "latitude": 43.859479206264076, 
+                "longitude": 18.429780619066765
+              },
+              "address": "Sarači 32, Sarajevo 71000",
+              "description": "Fabrika Coffee Sarajevo is your destination for the ultimate coffee experience, which combines premium domestic quality with the finest beans from different parts of the world. On offer, every coffee lover can find the perfect cup—whether they prefer a rich, intense robusta with a higher caffeine content, or a mild, aromatic arabica with more subtle notes. The coffee is always freshly roasted, and the beans are carefully selected from Africa, Central and South America, and East Asia. Join us and enjoy the unique taste and quality that Fabrika Coffee provides with every sip."
+            },
+            {
+              "name": "Caffe Tito", 
+              "coordinates": {
+                "latitude": 43.854718526995974,
+                "longitude": 18.400791746713672
+              },
+              "address": "Zmaja od Bosne 5, Sarajevo 71000",
+              "description": "Caffe Tito is a unique building entirely dedicated to Josip Broz Tito. It is located next to Wilson's Promenade and is an ideal place to relax during summer days. Music lovers can often enjoy unplugged performances by bands."
+            },
+            {
+              "name": "City View Sarajevo", 
+              "coordinates": {
+                "latitude": 43.85813355287192, 
+                "longitude": 18.43611353266377
+              },
+              "address": "Podcarina 1, Sarajevo 71000",
+              "description": "City View is a beautiful cafe and dessert located in Sarajevo that offers a wide variety of delicacies, from classic cakes and pastries to unique flavors of ice cream and homemade chocolates. The store boasts a warm and inviting atmosphere, making it the perfect place to enjoy a sweet tooth. It has one of the most beautiful views of the city."
+            },
+            {
+              "name": "Caffe Slastičarna Vatra", 
+              "coordinates": {
+                "latitude": 43.85862350293744, 
+                "longitude": 18.422142528104775
+              },
+              "address": "Ferhadija 4, Sarajevo 71000",
+              "description": "Try good delicacies or decide to spend good times with coffee or tea in this beautiful restaurant. The combination of elegance and comfort in the interior of the building gives satisfaction at first glance. Urban with modern, woven into the kindness of those who welcome guests with the most beautiful smile, are just another indicator of what awaits you inside: beauty, charm, warmth and love. You will be able to feel all the magic at the first taste of sweet or salty, which are in the colorful opus of what is offered. The warm atmosphere like a flame quickly spreads and reaches everyone. In doing so, special attention was paid to the arrangement of positive energy in the space, and the flame of the Eternal Fire, which is located in the immediate vicinity of the building itself, was taken as the focal point of that energy."
+            },
+            {
+              "name": "Sweets & Co", 
+              "coordinates": {
+                "latitude": 43.84900727136708, 
+                "longitude": 18.362835625316006
+              },
+              "address": "Dzemala Bijedica St 129, Sarajevo 71000",
+              "description": "Sweets & Co is an international cafe pastry shop concept that was recently introduced in Bosnia and Herzegovina, more specifically in Sarajevo, at Džemal Bijedića 129 (Nova Otoka). The interior of this place will win you over at first sight, while their desserts will make even a rainy day brighter. Inside the cafe, the attention is stolen by the wall decorated with floral installations and the furniture in shades of pink, white and marble details. Sweets & Co also has a cozy terrace that will fit perfectly into relaxed socializing in the afternoon on a sunny autumn day. In their offer you will find irresistible desserts such as French éclair cake, hazelnut cake, cheesecake, as well as carrot cake, chocolate cake and many more."
+            },
+            {
+              "name": "YU caffe", 
+              "coordinates": {
+                "latitude": 43.82997691450474, 
+                "longitude": 18.306857745132994
+              },
+              "address": "Mala aleja 28, Ilidža",
+              "description": "Yu Cafe is located in Mala Aleja, the central promenade of Sarajevos Ilidža neighborhood, at the address Mala Aleja to number 28, a place ideal both for those who are looking for a pleasant corner in Ilidža where they can drink a coffee during the day, and for those who are looking for an energetic evening Yu Cafe is, in fact, a themed cafe inspired by the golden times of the former Yugoslavia. The cafe is like a small museum, so wherever you turn you will find some interesting detail that reminds us of our former country, such as photos, flags, plaques, badges, musical instruments... Some of these items are real treasures, along with related interesting stories. When it comes to music, Yu Cafe plays jazz, rock'n'roll, and the inevitable ex-Yu hits. Visitors often manage to stumble on a great live concert, and in addition to standard cover bands, Yu Cafe also hosted some of BiH's bands. rock'n'roll stars, such as Mladen Vojičić Tifa, Irina Kapetanović, the group Zoster, Bolero..."
+            },
+            {
+              "name": "Caffe 35 / Avaz Twist Tower", 
+              "coordinates": {
+                "latitude": 43.86075703364676,
+                "longitude": 18.40211215989038
+              },
+              "address": "Avaz Twist Tower, Tešanjska 24A, Sarajevo 71000",
+              "description": "Cafe 35 offers a breathtaking experience atop the iconic Avaz Twist Tower on the 35th floor. As the highest bar in Sarajevo, it provides unparalleled panoramic views in every direction. Guests can enjoy a cup of coffee or choose from a selection of beverages while admiring the stunning cityscape below. The open observation deck above the cafe is the perfect place to take in the sights and create unforgettable memories. Visit Cafe 35 for a truly elevated experience in Sarajevo."
+            },
+            {
+              "name": "Mr. & Mrs. Cue", 
+              "coordinates": {
+                "latitude": 43.85404368744295,
+                "longitude": 18.397673107010576
+              },
+              "address": "Vilsonovo šetalište 13, Sarajevo 71000",
+              "description": "Cue Billiards Club and Cafe is a popular destination for fans of billiards and enjoying a relaxed atmosphere. The Cue is located on Wilson's Promenade and within the Cue there is a beautiful garden to enjoy with your friends. The service provided by Mr. & Mrs. Cue is extremely cordial and professional. The club staff is friendly and accommodating, always ready to support and help you. Regardless of your level of billiards experience, the club's instructors are here to provide advice and help you improve your skills. Also, they take care of every detail to make your stay in the club pleasant and unforgettable. Prices in Mr. & Mrs. Cue clubs are affordable, which makes it attractive to a variety of visitors. You can choose from different game options and packages to suit your budget. The club also offers occasional special offers and discounts, giving you added benefits. The atmosphere in the club is relaxed and pleasant, ideal for hanging out with friends or relaxing with a game of billiards. The club is modernly decorated, with enough space to play and comfortable seating. The equipment in the club is of high quality and well maintained, which allows you to enjoy a top game of billiards. Mr. & Mrs. Cue Billiards Club and Cafe offers free internet access for all visitors, which is convenient for those who want to stay connected during their visit or share their experience with friends on social networks. As for parking, the club offers the availability of parking lots nearby, which makes it easier for visitors to come and go."
+            }
+          ]
+        },
+        {
+          "name": "Parks",
+          "locations": [
+            {
+              "name": "Veliki park", 
+              "coordinates": {
+                "latitude": 43.85972143607635,
+                "longitude": 18.41604440224585
+              },
+              "address": "Trampina 4, Sarajevo 71000",
+              "description": "Veliki Park is the largest green area in the center of Sarajevo and is an ideal place to make a break amidst the greenery while taking in the sights in the center of town. The park is surrounded by Maršala Tita, Koševo, Džidžikovac, Tina Ujevića and Trampina Streets and in the lower section, in the direction of Titova, there is a monument dedicated to the Children of Sarajevo who died during the last war in BiH. The park is crisscrossed by little paths which lead one in every direction, as well as centuries-old nišans (tombstones), which provide evidence of the fact that a Muslim graveyard, Čekrekčija's Cemetery, used to be here. The cemetery was named after Muslihudin Hajji Mustafa Čekrekčija, who was apparently among the first people to be buried in this cemetery. He once owned the land which would later become the park and had Čekrekči Mosque, Sarajevo's first cupolated mosque, built in Baščaršija in 1526. With the arrival of Austro-Hungarian authorities, burials were forbidden in the center of town, because of hygiene and sanitation . Many saplings were planted in 1886, and it was here that a new park was officially opened.During the last war, nine police officers were buried in Veliki Park, on the side that is close to Trampina Street. They were killed during a joint military-police operation known as Trebević '93."
+            },
+            {
+              "name": "Pionirska Dolina", 
+              "coordinates": {
+                "latitude": 43.87830253525244,
+                "longitude": 18.412184586629134
+              },
+              "address": "Patriotske lige 58, Sarajevo 71000",
+              "description": "Just 2 kilometers away from the city center, on an area of ​​8.5 hectares, there is the Sarajevo Zoo, the popular Pionirska dolina, which is a favorite destination for the youngest. In addition to walking through nature and seeing several dozen species of animals, in Pionirska dolina there are also numerous toys and animations available for children (electric cars, carts, merry-go-round...), as well as playgrounds with slides, see-saws, merry-go-rounds..."
+            },
+            {
+              "name": "Wilson's Promenade", 
+              "coordinates": {
+                "latitude": 43.85307906878963,
+                "longitude": 18.392909523387456
+              },
+              "address": "Vilsonovo setaliste bb, Sarajevo 71000",
+              "description": "The most popular promenade in the city of Sarajevo itself is Vilsonovo promenade, which stretches along Miljacka from the Suada and Olga Bridge to the building of Elektroprivreda BiH and the bridge in Topal Osman - Paše Street. The promenade was formed during the Austro-Hungarian rule, and its first name was Kalajeva Promenade, after the joint minister of finance of the Austro-Hungarian Monarchy and the administrator of Bosnia and Herzegovina - Benjamin Kalaj. After the establishment of the SHS Kingdom, Kalajeva Promenade was named Wilson's Promenade to US President Thomas Woodrow Wilson, who declared war on the Central Powers in 1917, which was a turning point in the First World War. During the Nazi-Ustasha occupation from 1941 to 1945, the promenade was called Mussolini's promenade after the Italian fascist leader, after the war it was again was called Vilsonovo, and in 1960 it was named the Youth Promenade. The name Wilson's Promenade was returned to this attractive promenade in 1993.On both sides of the promenade, thick rows of linden trees were planted at the beginning of the 20th century, which make this promenade a green oasis in the middle of Sarajevo.Motor vehicles are prohibited on the road that leads through the promenade every weekday after 5 p.m., as well as on weekends and holidays. In several places along Wilson's promenade, exercise equipment has been installed, and the youngest have access to a fenced playground. Along the promenade, there are also several restaurants, whose gardens are favorite places to hang out in Sarajevo during the summer months."
+            },
+            {
+              "name": "Park Safet Zajko", 
+              "coordinates": {
+                "latitude": 43.84765791569416, 
+                "longitude": 18.33644017429354
+              },
+              "address": "71160, Sarajevo 71000",
+              "description": "Cenatar Safet Zajko is located in the center of Novi Grad, five minutes away from tram and bus traffic. It is connected to the city by footpaths and a bridge built in Nedžarići, bicycle paths and a recently renovated road. In the central part of the Center there is a fountain, a fountain and a summer stage intended for cultural and entertainment events, around which there will be summer gardens for visitors, and nearby there is an area for outdoor fitness. It is filled with greenery, walkways and benches. The park contains an athletics track, a soccer field with artificial grass, a long jump field, a basketball court, changing rooms, indoor soccer fields, table tennis tables, a small adrenaline park, children's playgrounds and a beach volleyball court. Safet Zajko Park in Sarajevo is a wonderful place to relax and enjoy nature. This park is located in the heart of the city and offers visitors numerous opportunities for recreation and relaxation. The service at Park Safet Zajko is outstanding. The staff is friendly and accommodating, always ready to help and provide information to visitors. The prices are affordable, and the atmosphere in the park is calm and relaxing, ideal for a walk or resting on a bench with the sounds of nature."
+            },
+            
+            {
+              "name": "Šetalište Dariva", 
+              "coordinates": {
+                "latitude": 43.85861836138885, 
+                "longitude": 18.441734077511892
+              },
+              "address": "Dariva, Sarajevo 71000",
+              "description": "Dariva is located at the eastern entrance to Sarajevo, in the area between Bentbaša and Kozija ćuprije. This oldest Sarajevo promenade passes through the once difficult-to-navigate canyon of the Miljacka river, whose beauty became visible to the people of Sarajevo only after the construction of a narrow-gauge railway during the Austro-Hungarian monarchy. Along this promenade, which is eight kilometers long, the Ambassador's Alley tree line has been planted with over 200 linden trees, which were planted with their own hands by diplomats serving in Bosnia and Herzegovina. Next to the promenade there is also a rock for climbing - Dariva, a favorite destination of many alpinists, and not far away is the Babin zub rock, where the history of alpinism in Sarajevo began. Dariva is closed to motor vehicle traffic and is a wonderful and peaceful place for a walk by the river. The space is fairytale-like, and while there is daylight, it is filled with people enjoying natural beauty, relaxation and recreation."
+            }
+          ]
+        },
+        {
+          "name": "Bookstores",
+          "locations": [
+            {
+              "name": "books.ba", 
+              "coordinates": {
+                "latitude": 43.85476540287781,
+                "longitude": 18.413784115087307
+              },
+              "address": "Terezije bb, Sarajevo 71000",
+              "description": "books.ba is a company that was founded in 2011 and deals with the distribution of books, textbooks and professional magazines, as well as the retail of books in the English language in Terezija BB Street (Centar Skenderija - Privredni grad) in Sarajevo. Since 2012, books.ba has been a partner of the publishing house Macmillan Education UK in the distribution and co-publishing of textbooks for learning English. In addition to Macmillan Education books, books.ba also distributes publications from over 200 foreign publishing houses."
+            },
+            {
+              "name": "Bookstore Connectum", 
+              "coordinates": {
+                "latitude":  43.85883999705925,
+                "longitude": 18.42917546654505
+              },
+              "address": "71000, Ćurčiluk veliki 27, Sarajevo",
+              "description":"Kupiknjigu is a new online sales service of the Connectum publishing house and Connectum's bookstores. It was born from the desire to get closer to the new habits of readers and facilitate their path to their favorite titles. Our desire is to connect with book lovers and become a place for meeting, informing and buying . For this reason, our goal is to listen carefully to the interests and wishes of users, and to develop in this direction and grow together with our online community of readers."
+            },
+            {
+              "name": "Buybook", 
+              "coordinates": {
+                "latitude": 43.856993453952725,
+                "longitude": 18.41771855148604
+              },
+              "address": "Radićeva 4, Sarajevo 71000",
+              "description": "Buybook provides a comprehensive selection of books and stationery, along with a comfortable space for browsing and reading."
+            }, 
+            {
+              "name": "Sarajevo Publishing", 
+              "coordinates": {
+                "latitude":  43.85769551131698,
+                "longitude": 18.41205365655615
+              },
+              "address": "Maršala Tita 14, Sarajevo 71000",
+              "description": "Sarajevo Publishing Bookstore is a beloved literary haven nestled in the heart of Sarajevo. Known for its extensive collection of books, this bookstore offers a rich selection of local and international titles that cater to readers of all ages and interests. Beyond just a place to purchase books, Sarajevo Publishing Bookstore serves as a cultural hub, regularly hosting book signings, literary events, and discussions with authors. The welcoming atmosphere and knowledgeable staff make it the perfect spot for book lovers to explore new stories and find their next great read. Whether you're seeking the latest bestseller, a classic novel, or a unique local publication, Sarajevo Publishing Bookstore has something for everyone."
+            }
+
+          ]
+        },
+        {
+          "name": "Museums",
+          "locations": [
+            {
+              "name": "National Museum of Bosnia and Herzegovina", 
+              "coordinates": {
+                "latitude":  43.85508568869016,
+                "longitude": 18.402624183430046
+              },
+              "address": "Zmaja od Bosne 3, Sarajevo 71000",
+              "description": "The National Museum of Bosnia and Herzegovina was founded in 1888 and is the oldest of the modern cultural and scientific institutions of Western type in Bosnia and Herzegovina. A series of historical events influenced its establishment. A number of individuals and groups had for a long time prior to this emphasized the need for such an institution. The initial idea to establish a museum dates back to 1850. However, nearly four decades were to elapse before its establishment, during which two empires ruled Bosnia and Herzegovina – Ottoman rule gave way in 1878 to Austro-Hungarian administration.The political, strategic and economic goals set by the Austro-Hungarian administration called for European literacy levels and more widespread education. As one of the still unexplored countries of the Balkans, Bosnia and Herzegovina was a source of curiosity for many scientists, especially those from Austria-Hungary. At the same time, it also attracted the attention of quasi-scientists, which in the very first years of occupation resulted in their removing cultural monuments from the region. This all contributed to the decision to take more concrete measures designed to bring about the long-awaited establishment of a museum. To this end, the Museum Society was formed, followed on 1 February 1888 by the establishment by the Provincial Government of the museum, then a Provincial Museum, now properly known as the National Museum of Bosnia and Herzegovina. Mr. Kosta Hörmann, an adviser to the Government, was appointed as director of the Museum. The Museum soon outgrew its original, inconvenient premises, and work began on a new building in 1908. It was decided that the new museum facilities would consist of a complex of buildings housing all the existing collections in separate sections. The construction was completed in 1913 and the Museum was open to the public on 4 October that year. The complex, which remained for many years the only purpose-built museum in the former Yugoslavia, still houses the National Museum to this day. Since the very beginning of its work, the National Museum has developed as a complex cultural and scientific institution fostering a number of scientific and scholarly disciplines, i. e. history, geography, archaeology (prehistoric, ancient and mediaeval), ethnology, history of art and natural history (biology, geology and mineralogy), and to some extent language, literature, statistics and bibliography. Over the years these disciplines have been rationalized into the present three departments: Archaeology, Ethnology and Natural History. Since the outset, considerable attention has been paid to the educational and cultural function of the Museum. Museological activities have also created a basis for the acquisition of all the existing collections through research work in the field, purchase, exchange or gifts to the Museum.Organizational units:  Archaeology Department, Ethnology Department, Natural History Department, Library"
+            },
+            {
+              "name": "War Childhood Museum", 
+              "coordinates": {
+                "latitude":43.86194920196557,
+                "longitude": 18.42841299442014
+              },
+              "address": "Logavina 32, Sarajevo 71000",
+              "description": "The War Childhood Museum is a unique institution that tells the stories of children who grew up during the Bosnian War of the 1990s. The museum's collection includes personal items, photographs, and stories from children who lived through the war. The museum aims to preserve the memories of the war and educate visitors about the experiences of children during the conflict. The War Childhood Museum is a powerful and moving tribute to the resilience and courage of the children of Bosnia and Herzegovina."
+            },
+            {
+              "name": "Museum of Optical Illusions Sarajevo", 
+              "coordinates": {
+                "latitude":  43.85478334389692,
+                "longitude": 18.418636245888106
+              },
+              "address": "Skenderija 28, Sarajevo 71000",
+              "description": "The Museum of Optical Illusions in Sarajevo is a unique attraction that provides visitors with an incredible experience of illusion and visual effects. Located at Skenderija 28 and spread over three floors, i.e. more than 300m2, the museum has become a popular destination for all lovers of optical illusions and fun visual tricks. The service provided by the museum is outstanding. The staff is friendly and professional, ready to provide visitors with information and explain various illusions. The atmosphere in the museum is exciting and intriguing, every corner reveals a new illusion that causes amazement and delight. The entrance fee is affordable, which makes visiting the museum even more attractive. It is also important to note that the ticket is paid in cash. The Museum of Optical Illusions offers a wide range of content. Visitors have the opportunity to explore different rooms filled with optical illusions, three-dimensional images, mirrors, seemingly endless corridors and other visual tricks. Each exhibit is carefully designed to create stunning visual effects and boggle the mind. Visitors can experience making things seem impossible - walk on the ceiling, change size in relation to their shadow, see themselves in countless variations in the mirror and more. The museum is interactive, which means that visitors can actively participate in the illusions and take photos to capture amazing moments."
+      
+            },
+            {
+              "name": "Museum of Sarajevo", 
+              "coordinates": {
+                "latitude": 43.8579579778792,
+                "longitude": 18.428925591487616
+              },
+              "address": "Zelenih beretki 1, Sarajevo 71000",
+              "description": "The Museum of Sarajevo 1878–1918 (Muzej Sarajevo 1878–1918) is located near the Latin Bridge in central Sarajevo, the capital of Bosnia and Herzegovina. The building had been Moritz Schiller's Delicatessen in 1914, the year that Franz Ferdinand, the heir presumptive to the throne of Austria-Hungary was shot dead by Gavrilo Princip from the street corner outside, triggering the July Crisis which led to the outbreak of World War I. The museum is part of the Museum of Sarajevo. The permanent exhibition holds a collection of items and photographs with which the museum presents a chronological history of Austro-Hungarian rule in Bosnia and Herzegovina. "
+      
+            },
+            {
+              "name": "History Museum of Sarajevo", 
+              "coordinates": {
+                "latitude": 43.85520039086215,
+                "longitude": 18.40091095639703
+              },
+              "address": " Zmaja od Bosne 5",
+              "description": "The Historical Museum of Bosnia and Herzegovina was founded on 13th November 1945. Since 1963 the museum is situated in a building specially built for such purpose.Museum changed its name several times and cronologically expanded the borders of its research and collecting work towards past and present. In 1949 the museum was named Museum of National Revolution of Bosnia and Herzegovina, in 1967 Museum of Revolution of Bosnia and Herzegovina, and finally, by the Law on Museum activity, adopted in June 1993, museum was renamed to Historical Museum of Bosnia and Herzegovina.Thematic structure of museum, as a central institution for researching and museological display of history of Bosnia and Herzegovina takes period from the coming of Slavs to the Balkan Peninsula, creating the first medieval South Slavic states, and in particular - the Medieval Bosnian State (Bosnia as a regional unit ruled by a ban, and Bosnia as a Kingdom), Bosnia under Otoman rule (1463-1878), period of Austro-Hungarian rule (1878-1918), Bosnia and Herzegovina from 1918-1945, Bosnia and Herzegovina from 1945-1990, and particular area of researching and presentation is period Bosnia and Herzegovina from 1990 until present.With its work of researching and collecting, which is the permanent activity of the museum since it was founded, it established a fund with approximatelly 400.000 museum items, documents, photographs and art works of different historical value of Bosnia and Herzegovina, many of them rarities. All the museum material is organized into six museum collections: Collection of Archive Documents, Collection of Photographs, Collection of threedimensional objects, Collection of Artworks, Library, and Documentation Center."
+      
+            }
+          ]},
+            {
+              "name": "Restaurants",
+              "locations": [
+                  {
+                      "name": "4 Sobe Gospođe Safije", 
+                      "coordinates": {
+                          "latitude": 43.86417606121196,
+                          "longitude": 18.4148803184952
+                      },
+                      "address": "Čekaluša 61, Sarajevo 71000",
+                      "description": "A historic and elegant restaurant known for its sophisticated ambiance and exquisite Bosnian and international cuisine. It is named after a famous local love story and offers a unique dining experience with a charming interior and outdoor seating."
+                  },
+                  {
+                      "name": "Kibe Mahala", 
+                      "coordinates": {
+                          "latitude": 43.871389457257116,
+                          "longitude": 18.42777286991374
+                      },
+                      "address": "Vrbanjuša 106, Sarajevo 71000",
+                      "description": "Situated on a hillside with panoramic views of Sarajevo, Kibe Mahala serves traditional Bosnian dishes with a modern twist. The restaurant is known for its cozy atmosphere, excellent service, and beautiful terrace."
+                  },
+                  {
+                      "name": "Dveri", 
+                      "coordinates": {
+                          "latitude": 43.859539624383196,
+                          "longitude": 18.43051038570432
+                      },
+                      "address": "Prote Bakovića 12, Sarajevo 71000",
+                      "description": "A charming and rustic restaurant located in the heart of Baščaršija, Dveri offers a warm and welcoming atmosphere with a menu featuring a variety of Bosnian specialties and international dishes."
+                  },
+                  {
+                      "name": "Avlija", 
+                      "coordinates": {
+                          "latitude": 43.863644592069214,
+                          "longitude": 18.41599922882458
+                      },
+                      "address": "Sumbula Avde 2, Sarajevo 71000",
+                      "description": "A hidden gem in Sarajevo, Avlija is known for its eclectic decor and relaxed garden setting. The restaurant serves a mix of traditional and contemporary dishes, focusing on fresh and local ingredients."
+                  },
+                  {
+                      "name": "Brajlović", 
+                      "coordinates": {
+                          "latitude": 43.830016510296296,
+                          "longitude": 18.303756021589194
+                      },
+                      "address": "Samira Ćatovića Kobre 6, Ilidža",
+                      "description": "Famous for its grilled meats and hearty Bosnian cuisine, Brajlovic is a popular destination for both locals and tourists. The restaurant offers a cozy and family-friendly environment with a variety of traditional dishes."
+                  },
+                  {
+                    "name": "Klopa", 
+                    "coordinates": {
+                        "latitude": 43.85921138225558,
+                        "longitude": 18.42518975658341
+                    },
+                    "address": "Trg Fra Grge Martića 4, Sarajevo 71000",
+                    "description": "A modern and trendy restaurant in the city center, Klopa is popular for its relaxed atmosphere and diverse menu, which includes a mix of Bosnian and international dishes. The restaurant also offers vegetarian and vegan options."
+                },
+                {
+                    "name": "Morica Han", 
+                    "coordinates": {
+                        "latitude": 43.859689260121925,
+                        "longitude": 18.43011647407685
+                    },
+                    "address": "Sarači, Sarajevo 71000",
+                    "description": "Located in a historic Ottoman-era inn, Morica Han offers a unique dining experience with a menu that features traditional Bosnian cuisine. The restaurant's beautiful courtyard and authentic decor provide a glimpse into Sarajevo's rich history."
+                },
+                {
+                  "name": "Sushi San", 
+                  "coordinates": {
+                      "latitude":  43.86281663560407,
+                      "longitude": 18.425232894157936
+                  },
+                  "address": "Obala Isa-bega Ishakovića 3, Sarajevo 71000",
+                  "description": "Sushi San is a popular sushi restaurant located along the Miljacka River. Known for its fresh and high-quality ingredients, the restaurant offers a wide variety of sushi and Japanese dishes in a stylish and modern setting."
+              },
+              {
+                  "name": "Vidikovac Zmajevac", 
+                  "coordinates": {
+                      "latitude":  43.86668729968642,
+                      "longitude": 18.44206994805798
+                  },
+                  "address": "Zmajevac, Sarajevo 71000",
+                  "description": "A charming restaurant with a beautiful garden terrace, Zmajevac offers a mix of traditional Bosnian and international cuisine. The restaurant is known for its warm and welcoming atmosphere, making it a popular spot for both locals and tourists."
+              },
+              {
+                  "name": "Kod Bibana", 
+                  "coordinates": {
+                      "latitude": 43.85561384137121,
+                      "longitude": 18.441506957581478
+                  },
+                  "address": "Hošin brijeg 95, Sarajevo 71000",
+                  "description": "Kod Bibana is a cozy restaurant located in the heart of Sarajevo. Known for its delicious Bosnian dishes and warm hospitality, the restaurant offers a relaxed and inviting atmosphere for guests to enjoy a meal with family and friends."
+              },
+              {
+                  "name": "Inat Kuća",
+                  "coordinates": {
+                      "latitude": 43.85855304768,
+                      "longitude": 18.434299922066238
+                  },
+                  "address": "Veliki Alifakovac 1, Sarajevo 71000",
+                  "description": "Inat Kuća is a historic restaurant located near the Miljacka River. The restaurant is known for its traditional Bosnian cuisine and charming atmosphere, with a menu that features a variety of local dishes and specialties."
+              }]},
+              {
+                "name": "Historical Sites",
+                "locations": [
+                    {
+                        "name": "Baščaršija", 
+                        "coordinates": {
+                            "latitude": 43.85984577763788,
+                            "longitude": 18.431272624286574
+                        },
+                        "address": "Baščaršija, Sarajevo 71000",
+                        "description": "Baščaršija is Sarajevo's old bazaar and the historical and cultural center of the city. Built in the 15th century by the Ottomans, it is a vibrant and bustling market filled with traditional crafts, cafes, and historical buildings. It is an essential visit for anyone wanting to experience the heart of Sarajevo's history."
+                    },
+                    {
+                        "name": "Gazi Husrev-beg Mosque",
+                        "coordinates": {
+                            "latitude":  43.859191105946564,
+                            "longitude": 18.429306390696144
+                        },
+                        "address": "Sarači 8, Sarajevo 71000",
+                        "description": "Built in 1530, the Gazi Husrev-beg Mosque is one of the most important Islamic structures in Bosnia and Herzegovina. It is an architectural masterpiece from the Ottoman period and is known for its stunning design and intricate details. The mosque is still active and open to visitors."
+                    },
+                    {
+                        "name": "Sebilj Fountain", 
+                        "coordinates": {
+                            "latitude": 43.85972873247448,
+                            "longitude": 18.431251854326746
+                        },
+                        "address": "Baščaršija Square, Sarajevo 71000",
+                        "description": "The Sebilj Fountain, located in the center of Baščaršija Square, is a prominent symbol of Sarajevo. Built in the 18th century, this wooden fountain is an iconic meeting point for locals and tourists alike and represents the rich Ottoman heritage of the city."
+                    },
+                    {
+                        "name": "Latin Bridge",
+                        "coordinates": {
+                            "latitude":  43.85771677980478,
+                            "longitude": 18.428979127005434
+                        },
+                        "address": "Obala Kulina bana, Sarajevo 71000",
+                        "description": "The Latin Bridge is a historic Ottoman bridge over the Miljacka River. It is most famous for being the site where Archduke Franz Ferdinand of Austria was assassinated in 1914, an event that sparked the beginning of World War I. The bridge and surrounding area hold significant historical importance."
+                    },
+                    {
+                        "name": "Vijećnica (City Hall)", 
+                        "coordinates": {
+                            "latitude":  43.85923242317579,
+                            "longitude": 18.43355800256028
+                        },
+                        "address": "Obala Kulina bana 1, Sarajevo 71000",
+                        "description": "Vijećnica, Sarajevo's City Hall, is an impressive example of neo-Moorish architecture. Completed in 1896 during the Austro-Hungarian period, it served as the National Library of Bosnia and Herzegovina until it was heavily damaged during the siege of Sarajevo. Restored and reopened in 2014, it now serves as a cultural and event space."
+                    },
+                    {
+                        "name": "Yellow Fortress", 
+                        "coordinates": {
+                            "latitude": 43.861489041165775,
+                            "longitude": 18.437654981960076
+                        },
+                        "address": "Jekovac, Sarajevo 71000",
+                        "description": "The Yellow Fortress, or Žuta Tabija, is a cannon fortress that provides a stunning panoramic view of Sarajevo. Built in the early 18th century, it is a popular spot for locals and tourists to watch the sunset and enjoy a unique perspective of the city."
+                    },
+                    {
+                        "name": "Svrzo's House", 
+                        "coordinates": {
+                            "latitude": 43.862462487166944,
+                            "longitude": 18.42928533363681
+                        },
+                        "address": "Glodina 8, Sarajevo 71000",
+                        "description": "Svrzo's House is a well-preserved example of a traditional Ottoman residential house. Built in the 18th century, it showcases the typical lifestyle and architecture of that period. The house is now a museum and offers insight into the domestic life of a wealthy Sarajevo family during Ottoman rule."
+                    },
+                    {
+                        "name": "Emperor's Mosque",
+                        "coordinates": {
+                            "latitude": 43.85750318317462,
+                            "longitude": 18.43088818042434
+                        },
+                        "address": "Obala Isa-bega Ishakovića, Sarajevo 71000",
+                        "description": "The Emperor's Mosque is the oldest mosque in Sarajevo, built in 1457 by Isa-Beg Ishaković, the founder of Sarajevo. It was named in honor of Sultan Mehmed the Conqueror. The mosque has undergone several restorations and remains an active place of worship and a significant historical site."
+                    },
+                
+                    {
+                        "name": "Sacred Heart Cathedral", 
+                        "coordinates": {
+                            "latitude": 443.85929106393723,
+                            "longitude": 18.4254809692171
+                        },
+                        "address": "Trg Fra Grge Martića, Sarajevo 71000",
+                        "description": "The Sacred Heart Cathedral is the largest cathedral in Bosnia and Herzegovina and serves as the center of Catholic worship in the country. Built in the neo-Gothic style and completed in 1889, it is an important religious and architectural landmark in Sarajevo."
+                    }
+                   
+                ]
+            
+          },
+          {
+            "name": "Shopping Malls",
+            "locations": [
+              {
+                "name": "SCC - Sarajevo City Center",
+                "coordinates": {
+                  "latitude": 43.85550798148486, 
+                  "longitude": 18.40811489699393
+                },
+                "address": "Vrbanja 1, Sarajevo 71000",
+                "description": "Sarajevo City Center (SCC) is a business complex and shopping center in downtown Sarajevo, Bosnia and Herzegovina, that consists of three main parts: a shopping mall and leisure complex; a five star hotel tower; and a commercial offices tower, with a common 4-storey underground parking area with more than 1100 parking spaces."
+
+              },
+              {
+                "name": "Alta Shopping Center",
+                "coordinates": {
+                  "latitude": 43.85640592342935, 
+                  "longitude": 18.40618692284825
+                },
+                "address": "Franca Lehara 2, Sarajevo 71000",
+                "description": "Modern indoor mall with major brand-name fashion, home goods, dining & personal care services."
+
+              },
+              {
+                "name": "Aria",
+                "coordinates": {
+                  "latitude": 43.858596326229616, 
+                  "longitude": 18.41668448465595
+                },
+                "address": "Trg djece Sarajeva 1, Sarajevo 71000",
+                "description": "ARIA Centar, formerly known as BBI Centar, is a shopping mall in the center of Sarajevo. ARIA Centar was built on the site where Robna kuća Sarajka, a popular state-owned department store, stood during the time Bosnia and Herzegovina was part of SFR Yugoslavia."
+
+              },
+              {
+                "name": "Importanne Shopping Centar",
+                "coordinates": {
+                  "latitude": 43.85510878393618, 
+                  "longitude": 18.39969852582992
+                },
+                "address": "Zmaja od Bosne 7, Sarajevo 71000",
+                "description": "A big business and business center in the heart of Sarajevo the capital with many caffees and restaurants. Beautiful fountain outside the mall."
+
+              },
+              {
+                "name": "Grand Centar",
+                "coordinates": {
+                  "latitude": 43.82909602789539, 
+                  "longitude": 18.310945354664735
+                },
+                "address": "Butmirska cesta 14, Ilidža 71210",
+                "description": "Grand Centar is a modern shopping mall that caters to a wide variety of tastes and preferences. It spans multiple floors and features a blend of international and local retail brands, making it a go-to destination for both residents and visitors."
+
+              },
+              {
+                "name": "Bingo City Center Sarajevo",
+                "coordinates": {
+                  "latitude": 43.85032060231969, 
+                  "longitude": 18.353950912337684
+                },
+                "address": "Dzemala Bijedica St 160, Sarajevo 71000",
+                "description": "Bingo City Center is a modern and vibrant shopping and entertainment complex. It serves as a one-stop destination for shopping, dining, and leisure activities. Here are some of its key features:"
+
+              }, 
+              {
+                "name": "West Gate",
+                "coordinates": {
+                  "latitude": 43.847472758642674, 
+                  "longitude":18.241863583501576
+                },
+                "address": "Mostarsko raskršće 10, Sarajevo 71000",
+                "description": "This is an ideal place for the whole family, where you will be able to find everything, from food, cosmetics, clothes, shoes, household goods, building materials to interesting contents for your little ones."
+
+              }, 
+              {
+                "name": "Mercator Ložionička",
+                "coordinates": {
+                  "latitude": 43.85733237672376, 
+                  "longitude": 18.384404183501974
+                },
+                "address": "Ložionička 16, Sarajevo 71000",
+                "description": "Mercator Ložionička is a well-known shopping center located in the vibrant city of Sarajevo. It serves as a convenient and popular destination for shopping, dining, and various services, catering to the daily needs of residents and visitors alike."
+
+              }
+            ]
+          },
+          {
+            "name": "Art Galleries",
+            "locations": [
+              {
+                "name": "Art Gallery of Bosnia and Hercegovina",
+                "coordinates": {
+                  "latitude": 43.857968763932035, 
+                  "longitude": 18.42439088165001
+                },
+                "address": "Zelenih beretki 8, Sarajevo 71000",
+                "description":"Founded in 1946, its main focus is the 20th century art of Bosnia and Herzegovina. A rich collection of the Gallery comprises around 6000 pieces and is divided in several categories: the art of Bosnia and Herzegovina, collection of works from former Yugoslavia, collection of icons, collection of works of a Swiss artist Ferdinand Hodler, collection of drawings from Austro-Hungarian period, collection of international modern art. Also, the collection of photographs was established after the aggression. After aggression and after the building was reconstructed, the exhibition rooms were renovated and enriched with a new Swiss gallery."
+              },
+              {
+                "name": "Sevdah Art House",
+                "coordinates": {
+                  "latitude": 43.85897899127559, 
+                  "longitude": 18.431062239321992
+                },
+                "address": "Halači 5, Velike daire, 71000 Sarajevo",
+                "description":"Sevdah Art House is a museum dedicated to sevdalinka, traditional urban love songs, and the famous singers who have interpreted them. The museum is located in Baščaršija in Velike Daire, a renovated storehouse (magaza) that was built during the Ottoman period and used by Sarajevo merchants to store their goods."
+              },
+              {
+                "name": "Contemporary art gallery Brodac",
+                "coordinates": {
+                  "latitude": 43.85937442621752, 
+                  "longitude": 18.43297818350204
+                },
+                "address": "Brodac 4, 71000, Sarajevo 71000",
+                "description": "The Gallery of Contemporary Arts Brodac opened in April 2016 and is located on the street of the same name, next to Vijećnica. It is housed in the historic Beledija building, which served as the seat of city government until Vijećnica was built. Interesting place for contemporary art lovers.Warm atmosphere, and interesting people to meet."
+              },
+              {
+                "name": "Art gallery and fragrances Kalem i Misk",
+                "coordinates": {
+                  "latitude": 43.85887949119602, 
+                  "longitude": 18.42970875651822
+                },
+                "address": "Halači 5, Velike daire, 71000 Sarajevo",
+                "description":"The meaning of 'kalem' is a pen, specifically that one used for calligraphy, and musk, or misk in Bosnian, is an aromatic oil that has traditionally been a chief base of all oriental flagrances. This shop, located in one not too frequented street in Sarajevo's Old Town, is a bit of a hidden gem - not easy to find, but worth an effort. It has a first class offer of flagrances, plus something for every lover of traditional islamic calligraphy."
+              },
+              {
+                "name": "Gallery 11/07/95",
+                "coordinates": {
+                  "latitude": 43.859499702345374, 
+                  "longitude": 18.425684268158044
+                },
+                "address": "Trg Fra Grge Martića 2, Sarajevo 71000",
+                "description":"The Gallery 11/07/95 is a memorial art gallery located in Sarajevo, Bosnia and Herzegovina. It is a public institution dedicated to preserving the memory of the Srebrenica genocide. The gallery's showpiece is a permanent exhibition that provides documentary and archive material from the town of Srebrenica before, during and after the genocide."
+              },
+              {
+                "name": "BAŠ Gallery - BAŠ Galerija",
+                "coordinates": {
+                  "latitude": 43.85962114118324, 
+                  "longitude": 18.426100739322113
+                },
+                "address": "Jelića 1/2, Sarajevo 71000",
+                "description":"During the 76 years of its existence, the depo of CAA Baščaršija has been enriched with many original parts of traditional folk costumes as well as the reconstructions of original parts of costumes, not only from Bosnia and Herzegovina, but also from the whole Balkan region. Remaining consistent with its social and cultural function, CAA Baščaršija, by exhibiting a small part of material and spiritual cultural heritage, through a thematic exhibition in a special and specific way, brought visitors closer to part of its artwork through the BAŠ Gallery, a place where you can breathe in tradition."
+              },
+              {
+                "name": "Ars Aevi",
+                "coordinates": {
+                  "latitude": 43.859093744448494, 
+                  "longitude": 18.43318707866902
+                },
+                "address": "Brodac 1, Sarajevo 71000",
+                "description":"Ars Aevi is a museum of contemporary art in Sarajevo, Bosnia and Herzegovina.[1] It was established during the siege of Sarajevo as a cultural resistance movement to the Bosnian war. It holds a collection of approximately 130 works by renowned world artists such as Michelangelo Pistoletto, Jannis Kounellis, Joseph Beuys, Marina Abramović and Joseph Kosuth."
+              }
+
+            ]
+          },
+          {
+            "name": "Cinemas",
+            "locations": [
+              {
+                "name": "CineStar 4DX Sarajevo (Bingo City Center)",
+                "coordinates": {
+                  "latitude": 43.85055965023341, 
+                  "longitude": 18.35514719699376
+                },
+                "address": "Dzemala Bijedica St 160n, Sarajevo 71000",
+                "description": "CineStar 4DX Sarajevo is located within Bingo City Center, offering a modern cinema experience with advanced 4DX technology, multiple screens, and a variety of concessions."
+              },
+              {
+                "name": "Kino Meeting Point",
+                "coordinates": {
+                  "latitude": 43.85580954451345, 
+                  "longitude": 18.418388083501956
+                },
+                "address": "Hamze Hume 2, Sarajevo 71000",
+                "description": "Kino Meeting Point is a renowned cinema in Sarajevo known for screening a mix of mainstream and art-house films. It also hosts film festivals and special events throughout the year."
+              },
+              {
+                "name": "Cineplexx Sarajevo",
+                "coordinates": {
+                  "latitude": 43.85670259718261, 
+                  "longitude": 18.404619225829983
+                },
+                "address": "Vrbanja 1, Sarajevo 71000",
+                "description": "Cineplexx Sarajevo is a modern cinema complex located in Sarajevo City Center (SCC), offering multiple screens, the latest in cinema technology, comfortable seating, and a wide range of concessions. It provides an exceptional viewing experience with state-of-the-art audio and visual equipment."
+              },
+              {
+                "name": "Kino Novi Grad",
+                "coordinates": {
+                  "latitude": 43.84665998562259, 
+                  "longitude": 18.354623327681615
+                },
+                "address": "Bulevar Meše Selimovića 97, Sarajevo 71000",
+                "description": "Kino Novi Grad is a popular cinema located in the Novi Grad district of Sarajevo. It offers a variety of movies, including the latest blockbusters and local films, in a comfortable and welcoming environment. The cinema is known for its affordable prices and community-focused events."
+              }
+            ]
+          },
+          {
+            "name": "Bars and Clubs",
+            "locations": [
+              {
+                "name": "Cinemas Sloga",
+                "coordinates": {
+                  "latitude": 43.859878788940655, 
+                  "longitude": 18.418740781650055
+                },
+                "address": "Mehmeda Spahe 20, Sarajevo 71000",
+                "description": "Cinemas Sloga is one of the most popular nightclubs in Sarajevo, known for its vibrant atmosphere, live music, and DJ performances. It offers a mix of local and international music, attracting a diverse crowd."
+              },
+              {
+                "name": "City Pub",
+                "coordinates": {
+                  "latitude": 43.85828430423779,
+                  "longitude":  18.427253566305904
+                },
+                "address": "Hadži-Ristića 4, Sarajevo 71000",
+                "description": "City Pub is a well-known bar in Sarajevo, offering a cozy atmosphere, a wide selection of beers and cocktails, and live music performances. It's a great place to relax and enjoy the local nightlife."
+              },
+              {
+                "name": "Jazzbina Sarajevo",
+                "coordinates": {
+                  "latitude": 43.85861655615069, 
+                  "longitude": 18.418391666305933
+                },
+                "address": "Maršala Tita 38, Sarajevo 71000",
+                "description": "Jazzbina Sarajevo is a popular jazz bar located in the heart of the city. It features live jazz performances, a stylish interior, and a relaxed ambiance, making it a favorite spot for music lovers."
+              },
+              {
+                "name": "Aperitivo bar",
+                "coordinates": {
+                  "latitude": 43.857973298687256, 
+                  "longitude": 18.421906928427834
+                },
+                "address": "Branilaca Sarajeva 39, Sarajevo 71000",
+                "description": "Known for its chic and stylish ambiance, the bar offers a cozy atmosphere for both locals and tourists."
+              },
+              {
+                "name": "Tesla Pub",
+                "coordinates": {
+                  "latitude": 43.858400228872036, 
+                  "longitude": 18.426541225830036
+                },
+                "address": "Muvekita 6, Sarajevo 71000",
+                "description": "Tesla Pub is a popular bar in Sarajevo, inspired by the renowned inventor Nikola Tesla. It offers a cozy ambiance, a wide selection of drinks, and live music performances, making it a great spot for a night out."
+              },
+              {
+                "name": "Celtic Pub",
+                "coordinates": {
+                  "latitude": 43.858676805361306, 
+                  "longitude": 18.423274371143496
+                },
+                "address": "Ferhadija 12, Sarajevo 71000",
+                "description": "Celtic Pub is a well-known Irish-themed bar located in the heart of Sarajevo. It offers a lively atmosphere, traditional Irish drinks, and occasional live music, providing a taste of Ireland in the city."
+              },
+              {
+                "name": "Gastro pub Fabrika",
+                "coordinates": {
+                  "latitude": 43.858444723767505, 
+                  "longitude": 18.423285099979513
+                },
+                "address": "Ferhadija 12, Sarajevo 71000",
+                "description": "Fabrika is a trendy bar and club in Sarajevo, known for its industrial-chic design, eclectic music, and vibrant crowd. It features a spacious dance floor, a variety of drinks, and hosts various events and parties."
+              },
+              {
+                "name": "Blind Tiger",
+                "coordinates": {
+                  "latitude": 43.85918003882853, 
+                  "longitude": 18.420544870010186
+                },
+                "address": "Dalmatinska 2, Sarajevo 71000",
+                "description": "Blind Tiger is an upscale speakeasy-style bar offering a unique and intimate nightlife experience in Sarajevo. It features expertly crafted cocktails, a sophisticated atmosphere, and occasional live jazz music."
+              },
+              {
+                "name": "Mash Lounge & Club",
+                "coordinates": {
+                  "latitude": 43.857628775487676, 
+                  "longitude":  18.42160858052074
+                },
+                "address": "Branilaca Sarajeva 20, Sarajevo 71000",
+                "description": "Mash is a trendy bar in Sarajevo known for its laid-back atmosphere and creative cocktails. It offers a relaxed setting with modern decor, perfect for enjoying drinks with friends or having a casual night out."
+              },
+              {
+                "name": "Barometar",
+                "coordinates": {
+                  "latitude": 43.857669149927005, 
+                  "longitude": 18.420973025830072
+                },
+                "address": "Branilaca Sarajeva 23, Sarajevo 71000",
+                "description": "Barometar is a popular bar and lounge in Sarajevo that combines a stylish environment with a lively social scene. It offers a variety of drinks, including specialty cocktails, and features live music and DJ sets."
+              }
+
+            ]
+          },
+
+          {
+            "name": "Events",
+            "locations": [
+              {
+                "name": "Sarajevo Film Festival",
+                "address": "Various locations in Sarajevo",
+                "date": "August 16-23, 2024",
+                "description": "The Sarajevo Film Festival is a major film festival held annually in Sarajevo, featuring international and regional films. It includes screenings, workshops, and networking events for filmmakers and audiences."
+              },
+              {
+                "name": "Sarajevo Youth Festival",
+                "address": "Various locations in Sarajevo",
+                "date": "July 19-26, 2024",
+                "description": "The Sarajevo Youth Festival is an annual event that celebrates youth culture and creativity. It includes concerts, workshops, performances, and various activities designed for young people. The festival takes place at multiple locations across Sarajevo."
+              },
+              
+              {
+                "name": "Baščaršija Nights",
+                "address": "Baščaršija, Sarajevo",
+                "date": "July 1-30, 2024",
+                "description": "Baščaršija Nights is a cultural and entertainment event that takes place in the historic Baščaršija district of Sarajevo. It includes concerts, street performances, traditional music, and various cultural activities."
+              },
+              {
+                "name": "Sarajevo Jazz Fest",
+                "address": "Various locations in Sarajevo",
+                "date": "November 6-9, 2024",
+                "description": "The Sarajevo Jazz Fest is an annual jazz festival that attracts both local and international jazz musicians. It features live performances, workshops, and jam sessions across multiple venues."
+              },
+              {
+                "name": "Street Food Market",
+                "address": "Vilsonovo šetalište, Sarajevo",
+                "date": "June 13 - July 14, 2024",
+                "description": "The Street Food Market at Vilsonovo šetalište offers a range of street food options in a picturesque outdoor setting. Enjoy local delicacies, fresh produce, and a variety of food stalls while relaxing and enjoying the music and various artists."
+              },
+              {
+                "name": "Sarajevo Beer Festival",
+                "address": "Pionirska Dolina, Sarajevo",
+                "date": "July 20-22, 2024",
+                "description": "The Sarajevo Beer Festival is an annual event celebrating local and international beers. It includes beer tasting, live music, food stalls, and entertainment activities for beer enthusiasts."
+              },
+              {
+                "name": "Talis Festival & Academy",
+                "address": "Branilaca Sarajeva 24, Sarajevo",
+                "date": "July 29, 2024",
+                "description": "The Talis Festival & Academy is a cultural festival hosted at the Bosnian Cultural Center. It features a variety of performances and activities. For more information, visit their website or contact them directly."
+              }
+            ]
+          }
+        
+
+
+
+
+
+      ]
+    }
+  ]
+}
+ 
+

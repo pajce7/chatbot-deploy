@@ -1,0 +1,124 @@
+body {
+    font-family: 'Inter', Arial, sans-serif;
+    margin: 0;
+    background-color: #292929;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    text-align: center;
+    color: #292929;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.header img {
+    margin-right: 15px;
+    height: 50px;
+    max-width: 100%;
+}
+
+.main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+/* Remove margin-bottom to eliminate spacing */
+.content, #map {
+    background-color: #333333;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    color: #fafafa;
+    padding: 20px;
+    margin-bottom: 0; /* Remove margin-bottom */
+}
+
+.content {
+    height: 21vw;
+    color: #fafafa;
+}
+
+#weather {
+    height: 15vh;
+}
+
+#map {
+    height: 58vh;
+}
+
+iframe {
+    width: 100%;
+    height: 88vh; /* Set to 100% of the viewport height */
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.weather_title, .title {
+    color: #fafafa;
+}
+
+h2 {
+    font-size: 1.5vw;
+}
+
+p {
+    font-size: 1vw;
+}
+
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .content, #map, #chatbot {
+        width: 100%;
+    }
+
+    h2 {
+        font-size: 5vw !important; /* Increase font size for mobile devices */
+    }
+
+    p {
+        font-size: 4vw !important; /* Adjust as needed for better readability on mobile */
+    }
+
+    iframe {
+        height: 87vh; /* Adjust height if necessary */
+    }
+}
+
+/* Ensure columns and containers don't add extra spacing */
+.col-lg-8, .col-md-6, .col-sm-12 {
+    padding: 0; /* Remove padding from columns */
+    margin: 0; /* Remove margin from columns */
+}
+
+.content {
+    background-color: #333333;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    color: #fafafa;
+    padding: 20px;
+    margin-bottom: 0; /* Remove margin-bottom */
+    overflow: auto; /* Ensure content wraps and scrolls if necessary */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    height: 30vh;
+}
+
+.content h2 {
+    font-size: 1vw; /* Adjust the font size of h2 elements inside .content */
+}
+
+.content p {
+    font-size: 0.6vw; /* Adjust the font size of p elements inside .content */
+}
